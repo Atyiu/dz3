@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 line 1: changed by f2
+
